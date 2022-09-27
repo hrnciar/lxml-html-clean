@@ -5,7 +5,7 @@ import unittest
 from lxml.tests.common_imports import make_doctest
 
 import lxml.html
-from lxml.html.clean import Cleaner, clean_html
+from lxml_html_clean.clean import Cleaner, clean_html
 
 
 class CleanerTest(unittest.TestCase):
